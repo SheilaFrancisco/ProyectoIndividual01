@@ -27,15 +27,19 @@ Una vez realizadas las transformaciones se procedió a elaborar una API utilizan
 Para el funcionamiento de la API se solicitó definir cinco funciones para consulta de los datos. A continuación se muestran las consultas solicitadas acompañadas de la forma para accedera ellas en el navegador:
 
 + Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma
-+++ https://yvpv8c.deta.dev//get_word_count/{plataforma}/{keyword}
+        https://yvpv8c.deta.dev/get_word_count/{plataforma}/{keyword}
 
 + Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año
+        https://yvpv8c.deta.dev/get_score_count/{plataforma}/{puntaje}/{anio}
 
 + La segunda película con mayor score para una plataforma determinada, según el orden alfabético de los títulos.
+        https://yvpv8c.deta.dev/get_second_score/{plataforma}
 
 + Película que más duró según año, plataforma y tipo de duración
+        https://yvpv8c.deta.dev/get_longest/{plataforma}/{tipo}/{anio}
 
 + Cantidad de series y películas por rating
+        https://yvpv8c.deta.dev/get_rating_count/{rating}
 
 <br/>
 
