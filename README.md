@@ -21,7 +21,7 @@ Para la aprobación del primer proyecto individual se dio la siguiente consigna:
 Se proporcionaron 4 archivos CSV con datos sobre 4 plataformas de streaming: Amazon, Disney, Hulu y Netflix. El código utilizado para realizar las transformaciones solicitadas en la consigna se puede observar en el archivo Transformaciones.ipynb
 <br/>
 <br/>
-Una vez realizadas las transformaciones se procedió a elaborar una API utilizando el framework FastAPI y, finalmente, para el deployment de la API se utilizó [Deta](https://www.deta.sh/?ref=fastapi) 
+Una vez realizadas las transformaciones se procedió a elaborar una API utilizando el framework FastAPI y, finalmente, para el deployment de la misma se utilizó [Deta](https://www.deta.sh/?ref=fastapi) 
 <br/>
 <br/>
 Para verificar el funcionamiento de la API se solicitó definir cinco funciones para consulta de los datos. A continuación se muestran las consultas solicitadas, acompañadas de la forma para acceder a ellas en el navegador:
