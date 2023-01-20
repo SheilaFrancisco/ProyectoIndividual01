@@ -24,7 +24,7 @@ Se proporcionaron 4 archivos CSV con datos sobre 4 plataformas de streaming: Ama
 Una vez realizadas las transformaciones se procedió a elaborar una API utilizando el framework FastAPI y, finalmente, para el deployment de la API se utilizó [Deta](https://www.deta.sh/?ref=fastapi) 
 <br/>
 <br/>
-Para el funcionamiento de la API se solicitó definir cinco funciones para consulta de los datos. A continuación se muestran las consultas solicitadas acompañadas de la forma para accedera ellas en el navegador:
+Para verificar el funcionamiento de la API se solicitó definir cinco funciones para consulta de los datos. A continuación se muestran las consultas solicitadas, acompañadas de la forma para acceder a ellas en el navegador:
 
 + Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma
         https://yvpv8c.deta.dev/get_word_count/{plataforma}/{keyword}
@@ -50,3 +50,4 @@ Para el funcionamiento de la API se solicitó definir cinco funciones para consu
 + Los archivos proporcionados con los datos de las plataformas de streaming se encuentran en la carpeta Datasets, en este mismo repositorio.
 + En el archivo main.py se encuentra cada una de las funciones desarrolladas para las consultas a la API.
 + En requirements.txt se ubican las librerías necesarias para el correcto funcionamiento de la API en Deta.
++ Video explicativo del proyecto https://drive.google.com/file/d/1GamCE220Wv6mvcGFHImsaP6y9jbHoBfc/view?usp=sharing
