@@ -18,7 +18,7 @@ Para la aprobación del primer proyecto individual se dio la siguiente consigna:
         "Como parte del equipo de data de una empresa, el área de análisis de datos le solicita al área de Data Engineering (usted) ciertos requerimientos para el óptimo desarrollo de sus actividades. Usted deberá elaborar las transformaciones requeridas y disponibilizar los datos mediante la elaboración y ejecución de una API".
 </p>
 <br/>
-Se proporcionaron 4 archivos CSV con datos sobre 4 plataformas de streaming: _Amazon, Disney, Hulu y Netflix._ El código utilizado para realizar las transformaciones solicitadas en la consigna se puede observar en el archivo Transformaciones.ipynb
+Se proporcionaron 4 archivos CSV con datos sobre 4 plataformas de streaming: Amazon, Disney, Hulu y Netflix. El código utilizado para realizar las transformaciones solicitadas en la consigna se puede observar en el archivo Transformaciones.ipynb
 <br/>
 <br/>
 Una vez realizadas las transformaciones se procedió a elaborar una API utilizando el framework FastAPI y, finalmente, para el deployment de la misma se utilizó [Deta](https://www.deta.sh/?ref=fastapi) 
