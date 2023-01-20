@@ -43,8 +43,6 @@ Para verificar el funcionamiento de la API se solicitó definir cinco funciones 
 
 <br/>
 
-<br/>
-
 ## **Fuente de datos**
 
 + Los archivos proporcionados con los datos de las plataformas de streaming se encuentran en la carpeta Datasets, en este mismo repositorio.
