@@ -39,7 +39,7 @@ Para verificar el funcionamiento de la API se solicitó definir cinco funciones 
  <br/>       https://yvpv8c.deta.dev/get_longest/{plataforma}/{tipo}/{anio}
 
 + Cantidad de series y películas por rating
-        https://yvpv8c.deta.dev/get_rating_count/{rating}
+<br/>        https://yvpv8c.deta.dev/get_rating_count/{rating}
 
 <br/>
 
