@@ -27,7 +27,7 @@ Una vez realizadas las transformaciones se procedió a elaborar una API utilizan
 Para el funcionamiento de la API se solicitó definir cinco funciones para consulta de los datos. A continuación se muestran las consultas solicitadas acompañadas de la forma para accedera ellas en el navegador:
 
 + Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma
-        + https://yvpv8c.deta.dev//get_word_count/{plataforma}/{keyword}
++++ https://yvpv8c.deta.dev//get_word_count/{plataforma}/{keyword}
 
 + Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año
 
